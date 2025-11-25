@@ -106,8 +106,9 @@ export const defaultContentPageLayout: PageLayout = {
         if (!a.isFolder && b.isFolder) return 1
         
         // Then sort by date descending
-        const ad = a.meta?.dates?.published?.getTime() ?? 0
-        const bd = b.meta?.dates?.published?.getTime() ?? 0
+        const ad = a.meta?.date ? new Date(a.meta.date).getTime() : 0
+        const bd = b.meta?.date ? new Date(b.meta.date).getTime() : 0
+        
         return bd - ad
       },
       filterFn: (node) => {

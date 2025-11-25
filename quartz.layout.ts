@@ -80,37 +80,6 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
       useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
       // omitted but shown later
-      sortFn: (a, b) => {
-        const dateSortedFolders = [
-          "Posts",
-        ]
-
-        const aPath = a.filePath ?? ""
-        const bPath = b.filePath ?? ""
-
-        // Determine whether this comparison occurs inside one of the special folders
-        const inDateSortZone =
-          dateSortedFolders.some(folder =>
-            aPath.startsWith(folder) && bPath.startsWith(folder)
-          )
-
-        if (!inDateSortZone) {
-          // Default Quartz behaviour (folders first, then alphabetical)
-          if (a.isFolder && !b.isFolder) return -1
-          if (!a.isFolder && b.isFolder) return 1
-          return a.name.localeCompare(b.name)
-        }
-
-        // --- Custom date sorting ---
-        if (a.isFolder && !b.isFolder) return -1
-        if (!a.isFolder && b.isFolder) return 1
-        
-        // Then sort by date descending
-        const ad = a.meta?.date ? new Date(a.meta.date).getTime() : 0
-        const bd = b.meta?.date ? new Date(b.meta.date).getTime() : 0
-        
-        return bd - ad
-      },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
         const omit = new Set(["extras","disabled"])

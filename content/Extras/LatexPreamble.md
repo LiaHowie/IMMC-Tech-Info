@@ -55,4 +55,6 @@ $$
 \newcommand\elmnt[3]{\phantom{}_{#1}^{#2}\text{#3}}
 
 \newcommand\AA{\mathring{A}}
+
+\newcommand\order[1]{\mathcal{O}(#1)}
 $$

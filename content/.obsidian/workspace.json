@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/ZFS Storage Pool Troubles.md",
+                "file": "Posts/25-11-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZFS Storage Pool Troubles"
+              "title": "25-11-29"
             }
           }
         ]
@@ -172,14 +172,20 @@
   },
   "active": "47d1cbdafbd6d8f8",
   "lastOpenFiles": [
-    "Hardware.md",
+    "Posts/Mysterious Disconnects.md",
+    "Posts/25-11-29.md",
+    "Posts/25-11-29 Attachments",
     "index.md",
-    "Posts/ZFS Storage Pool Troubles.md",
-    "Extras/Figures/Pasted image 20251125191625.png",
+    "Hardware.md",
     "Extras/LatexPreamble.md",
-    "Extras/Figures/Pasted image 20251125191503.png",
-    "Posts/Test Note 2.md",
     "Extras/Templates/Default Frontmatter.md",
+    "Posts/Mysterious Disconnects Images/Figure_3.png",
+    "Posts/Mysterious Disconnects Images/Figure_1.png",
+    "Posts/Mysterious Disconnects Images",
+    "Posts/Mysterious Disconnects Images/Figure_2.png",
+    "Posts/25-11-29 Attachments/Pasted image 20251125191625.png",
+    "Posts/25-11-29 Attachments/Pasted image 20251125191503.png",
+    "Posts/Test Note 2.md",
     "Extras/Figures",
     "Patches/Creative/v4/v4.1.1.md",
     "Posts",
@@ -207,16 +213,9 @@
     "Extras/emojis/tiredlia.webp",
     "Extras/emojis/metro_interchange.webp",
     "Extras/emojis/hmmlia.webp",
-    "Extras/emojis/discord.webp",
-    "Extras/emojis/capitalistpi.webp",
-    "Extras/emojis/Zoom_Eyes.webp",
     "Extras/emojis",
     "emojis",
-    "Patches/Legacy System/R4/V-5.4.1.md",
-    "Patches/Survival/index.md",
     "Patches/Legacy System/R5d",
-    "Patches/Survival Legacy System/M-1/Untitled",
-    "Patches/Legacy System/M-1",
-    "Patches/Legacy System/R5c"
+    "Patches/Survival Legacy System/M-1/Untitled"
   ]
 }

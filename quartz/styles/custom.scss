@@ -29,16 +29,6 @@
   object-fit: contain;
 }
 
-/* apply to every KaTeX element and descendants */
-.katex, .katex * {
-  font-size: 0.95em !important;
-  line-height: 1 !important;
-  vertical-align: baseline !important;
-  transform: none !important;
+.katex {
+  font-size: 0.9em !important;
 }
-
-/* display blocks */
-.katex-display, .katex-display .katex {
-  font-size: 1em !important;
-}
-

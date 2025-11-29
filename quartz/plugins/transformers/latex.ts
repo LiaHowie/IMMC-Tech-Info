@@ -65,6 +65,7 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
     "\\partrat": "\\left.\\dfrac{\\partial^{#3} #1}{\\partial #2^{#3}}\\right\\lvert_{#4}\\!\\!\\!\\!", 
     "\\at": "\\left. #1 \\right\\lvert", 
     "\\AA": "\\mathring{A}", 
+    "\\order": "\\mathcal{O}(#1)"
   }
   return {
     name: "Latex",

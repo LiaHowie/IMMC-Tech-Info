@@ -45,7 +45,7 @@ export default ((userOpts?: Partial<Options>) => {
                     <p>
                       <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                         {title}
-                      </a> | {page.dates && (<Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                      </a> <br></br> {page.dates && (<Date date={getDate(cfg, page)!} locale={cfg.locale} />
                   )}
                     </p>
                   </div>

@@ -52,28 +52,23 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    //Component.Group({
-      //title: "Latest Post",
-      //children: [
-        Component.DesktopOnly(Component.RecentNotes({ 
-          title: "Latest Post",
-          limit: 1, 
-          showTags: false,
-          filter: (fileData) => {
-            if (fileData.frontmatter?.draft === true) return false;
+    Component.DesktopOnly(Component.RecentNotes({ 
+      title: "Latest Post",
+      limit: 1, 
+      showTags: false,
+      filter: (fileData) => {
+        if (fileData.frontmatter?.draft === true) return false;
 
-            if (fileData.frontmatter?.excludeRecent === true) return false;
+        if (fileData.frontmatter?.excludeRecent === true) return false;
 
-            return fileData.slug?.startsWith("Posts/") ?? false;
-          },
-          sort: (pageA, pageB) => {
-            const dateA = pageA.dates?.published?.getTime() ?? 0
-            const dateB = pageB.dates?.published?.getTime() ?? 0
-            return dateB - dateA
-          }
-        })),
-    //]
-    //}),
+        return fileData.slug?.startsWith("Posts/") ?? false;
+      },
+      sort: (pageA, pageB) => {
+        const dateA = pageA.dates?.published?.getTime() ?? 0
+        const dateB = pageB.dates?.published?.getTime() ?? 0
+        return dateB - dateA
+      }
+    })),
     Component.Explorer({
       title: "Navigate", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
@@ -111,7 +106,27 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.MobileOnly(Component.RecentNotes({ 
+      title: "Latest Post",
+      limit: 1, 
+      showTags: false,
+      filter: (fileData) => {
+        if (fileData.frontmatter?.draft === true) return false;
+
+        if (fileData.frontmatter?.excludeRecent === true) return false;
+
+        return fileData.slug?.startsWith("Posts/") ?? false;
+      },
+      sort: (pageA, pageB) => {
+        const dateA = pageA.dates?.published?.getTime() ?? 0
+        const dateB = pageB.dates?.published?.getTime() ?? 0
+        return dateB - dateA
+      }
+    })),
+    Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

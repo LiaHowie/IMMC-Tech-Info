@@ -8,16 +8,23 @@ interface Options {
 }
 
 const Group: QuartzComponentConstructor<Options> = (opts: Options) => {
-  return (props: QuartzComponentProps) => (
-    <div className={`${opts.visibleOn ?? ""}`}>
+  return (props: QuartzComponentProps) => {
+    if (
+      props.displayClass &&
+      !props.displayClass.includes("show")
+    ) {
+      return null
+    }
+
+    return (
       <div class="bordered-wrapper">
         {opts.title && <h3 class="group-title">{opts.title}</h3>}
         {opts.children.map((Child, i) => (
           <div key={i}>{Child(props)}</div>
         ))}
       </div>
-    </div>
-  )
+    )
+  }
 }
 
 export default Group

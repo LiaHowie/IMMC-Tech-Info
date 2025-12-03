@@ -9,7 +9,12 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h3 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        {title}
+        <img 
+          src="https://drive.liahowie.net/index.php/apps/files_sharing/publicpreview/sr2HBeWopTqJNDT?file=/&fileId=61807&x=2560&y=1440&a=true&etag=da515ff53477a12ddcd01be8efa78b2c" 
+          width="25" 
+          height="25"
+          >
+        </img>
       </a>
     </h3>
   )

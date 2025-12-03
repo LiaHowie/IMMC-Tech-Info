@@ -12,7 +12,7 @@ const Group: QuartzComponentConstructor<Options> = (opts: Options) => {
     const renderedChildren = opts.children.map((Child) => Child(props))
 
     return (
-      <div class={opts.class ?? ""}>
+      <div class="bordered-wrapper">
         {opts.title && <h3 class="group-title">{opts.title}</h3>}
         {renderedChildren}
       </div>

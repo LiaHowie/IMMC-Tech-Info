@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Group({
       title: "Latest Post",
       children: [
-        Component.RecentNotes({ 
+        Component.DesktopOnly(Component.RecentNotes({ 
           title: "",
           limit: 1, 
           showTags: false,
@@ -71,7 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
             const dateB = pageB.dates?.published?.getTime() ?? 0
             return dateB - dateA
           }
-        }),
+        })),
     ]
     })),
     Component.Explorer({
@@ -106,7 +106,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Group({
       title: "Latest Post",
       children: [
-        Component.RecentNotes({ 
+        Component.MobileOnly(Component.RecentNotes({ 
           title: "",
           limit: 1, 
           showTags: false,
@@ -122,7 +122,7 @@ export const defaultContentPageLayout: PageLayout = {
             const dateB = pageB.dates?.published?.getTime() ?? 0
             return dateB - dateA
           }
-        }),
+        })),
     ]
     })),
     Component.Graph(),

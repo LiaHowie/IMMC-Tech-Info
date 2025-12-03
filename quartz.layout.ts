@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Group({
+    Component.DesktopOnly(Component.Group({
       title: "Latest Post",
       children: [
         Component.RecentNotes({ 
@@ -73,12 +73,12 @@ export const defaultContentPageLayout: PageLayout = {
           }
         }),
     ]
-    }),
+    })),
     Component.Explorer({
       title: "Navigate", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "open", // default state of folders ("collapsed" or "open")
-      useSavedState: false, // whether to use local storage to save "state" (which folders are opened) of explorer
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // omitted but shown later
       filterFn: (node) => {
         // set containing names of everything you want to filter out
@@ -103,6 +103,28 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.MobileOnly(Component.Group({
+      title: "Latest Post",
+      children: [
+        Component.RecentNotes({ 
+          title: "",
+          limit: 1, 
+          showTags: false,
+          filter: (fileData) => {
+            if (fileData.frontmatter?.draft === true) return false;
+
+            if (fileData.frontmatter?.excludeRecent === true) return false;
+
+            return fileData.slug?.startsWith("Posts/") ?? false;
+          },
+          sort: (pageA, pageB) => {
+            const dateA = pageA.dates?.published?.getTime() ?? 0
+            const dateB = pageB.dates?.published?.getTime() ?? 0
+            return dateB - dateA
+          }
+        }),
+    ]
+    })),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -124,7 +146,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Group({
+    Component.DesktopOnly(Component.Group({
       title: "Latest Post",
       children: [
         Component.RecentNotes({ 
@@ -145,7 +167,7 @@ export const defaultListPageLayout: PageLayout = {
           }
         }),
     ]
-    }),
+    })),
     Component.Explorer({
       title: "Navigate", // title of the explorer component
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)

@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "tech.immortalmc.net",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",

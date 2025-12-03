@@ -105,6 +105,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.MobileOnly(Component.Group({
       title: "Latest Post",
+      visibleOn: "block md:hidden", // mobile only
       children: [
         Component.MobileOnly(Component.RecentNotes({ 
           title: "",
@@ -148,6 +149,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.DesktopOnly(Component.Group({
       title: "Latest Post",
+      visibleOn: "hidden md:block", // desktop only
       children: [
         Component.RecentNotes({ 
           title: "",

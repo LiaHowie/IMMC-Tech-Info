@@ -114,6 +114,9 @@ doing
 deal
 drowning
 depends
+difficult
+does
+deliver
 true
 to
 this
@@ -243,6 +246,9 @@ temporary
 thing
 terrible
 tuned
+three
+techpowerup
+tb
 World
 WorldEdit
 WU
@@ -303,6 +309,9 @@ Wbee
 WDC
 What
 Why
+Whoop
+Western
+Write
 Switched
 Signs
 SCy
@@ -416,6 +425,11 @@ Storage
 Since
 SLOG
 Synchronous
+Samsung
+Sold
+SN
+SPATIUM
+Size
 Vanilla
 Vein
 Va
@@ -478,6 +492,7 @@ Vd
 VLaaa
 VMV
 VO
+Vortex
 Reset
 Rgh
 RB
@@ -547,6 +562,8 @@ Rw
 RE
 RfD
 Running
+Redline
+Read
 world
 work
 when
@@ -657,6 +674,8 @@ written
 writing
 writes
 why
+worry
+went
 new
 not
 names
@@ -726,6 +745,7 @@ network
 nothing
 nO
 nKLL
+needlessly
 blank
 blocks
 behaviour
@@ -1039,6 +1059,11 @@ shit
 spot
 sooner
 separating
+slots
+seems
+sold
+ssd
+samsung
 Features
 FNt
 Fc
@@ -1108,6 +1133,8 @@ Fnr
 FYYS
 From
 Fear
+Following
+Found
 Confetti
 Creepers
 Coloured
@@ -1216,6 +1243,7 @@ COO
 CDd
 CV
 Create
+Crucial
 explode
 enables
 every
@@ -1315,6 +1343,7 @@ explicitly
 expense
 effort
 ensuring
+easy
 into
 item
 it
@@ -1411,6 +1440,7 @@ integrity
 intent
 inherent
 increase
+impact
 fireworks
 for
 fn
@@ -1506,6 +1536,10 @@ flag
 fast
 formally
 flash
+ful
+fact
+filtering
+filtered
 and
 as
 at
@@ -1625,6 +1659,9 @@ achieved
 alleviated
 affected
 actual
+adapters
+affordable
+affordability
 Item
 IHDR
 IDATx
@@ -1765,6 +1802,7 @@ NNNh
 NIU
 Not
 NFS
+Nope
 Minecraft
 Miner
 Mz
@@ -1855,6 +1893,9 @@ MOG
 Mnr
 Men
 Mysterious
+MB
+Mushkin
+MSI
 colour
 codes
 crouching
@@ -2007,6 +2048,7 @@ card
 course
 crashes
 chunks
+compare
 hex
 has
 hp
@@ -2094,6 +2136,9 @@ halves
 hindsight
 happening
 heavier
+home
+highest
+heard
 on
 ores
 other
@@ -2265,6 +2310,9 @@ App
 Aj
 And
 Astral
+Alrighty
+Alright
+AORUS
 vein
 valid
 vv
@@ -2320,6 +2368,7 @@ vnWtT
 vL
 va
 vi
+verified
 miner
 mod
 minute
@@ -2426,6 +2475,10 @@ modded
 modpacks
 moment
 money
+managed
+minimal
+minimum
+manufacturer
 logs
 lk
 lcm
@@ -2519,6 +2572,9 @@ low
 latency
 loss
 load
+lowest
+late
+looked
 By
 Ba
 BS
@@ -2591,6 +2647,7 @@ BBB
 Bv
 But
 Because
+Black
 restarts
 rKsaw
 rog
@@ -2701,6 +2758,12 @@ relevantly
 resulting
 replicate
 reason
+replace
+research
+requirements
+range
+requirement
+ruled
 page
 production
 published
@@ -2812,6 +2875,8 @@ penalty
 persistence
 power
 past
+price
+pro
 you
 yJ
 yU
@@ -2955,6 +3020,11 @@ PI
 PN
 Pwq
 Patriot
+PCIe
+Plus
+Pro
+PRO
+Price
 use
 uD
 ux
@@ -3028,6 +3098,7 @@ underlying
 utilise
 unoptimised
 uniquely
+uni
 Operators
 OT
 Ox
@@ -3079,6 +3150,7 @@ Ok
 OOO
 ODD
 Oops
+Out
 xJ
 xe
 xS
@@ -3239,6 +3311,7 @@ HlrG
 Hitachi
 HDS
 Hmm
+Hadn
 QP
 Qi
 Qf
@@ -3686,6 +3759,7 @@ Tm
 Thh
 Troubles
 Think
+Type
 GF
 Gm
 Gu
@@ -3759,6 +3833,8 @@ Gc
 Gn
 Geu
 Given
+Gigabyte
+Gen
 jH
 jcp
 jI
@@ -3854,6 +3930,7 @@ UF
 Un
 Uu
 Ulmm
+Using
 Dc
 Dj
 DA
@@ -3936,6 +4013,7 @@ DDD
 DRAM
 DRAMless
 Disconnects
+Digital
 qe
 qa
 qL
@@ -4042,6 +4120,9 @@ EDDDD
 ED
 Ef
 Eamll
+Evo
+Earliest
+Endurance
 gk
 gcm
 ga
@@ -4182,4 +4263,5 @@ LVI
 LV
 Limited
 Looking
+Let
 äB

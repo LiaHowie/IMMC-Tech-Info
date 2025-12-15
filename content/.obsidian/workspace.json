@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware.md",
+                "file": "Posts/New SSDs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware"
+              "title": "New SSDs"
             }
           }
         ]
@@ -170,17 +170,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47d1cbdafbd6d8f8",
+  "active": "b23b63b750a868fc",
   "lastOpenFiles": [
-    "Posts/Mysterious Disconnects.md",
-    "Posts/test.md",
+    "Posts/New SSDs Attachments",
+    "www.techpowerup.com/ssd-specs/samsung-980-pro-1-tb.d47.md",
+    "Posts/New SSDs.md",
+    "www.techpowerup.com/ssd-specs",
+    "www.techpowerup.com",
+    "Posts/New SSDs Attachments/Pasted image 20251215201354.png",
     "Posts/25-11-29.md",
+    "Hardware.md",
+    "Posts/Mysterious Disconnects.md",
+    "Extras/Templates/Default Frontmatter.md",
+    "Posts/test.md",
     "Posts/ZFS Storage Pool Troubles.md",
     "Posts/25-11-29 Attachments",
     "index.md",
-    "Hardware.md",
     "Extras/LatexPreamble.md",
-    "Extras/Templates/Default Frontmatter.md",
     "Posts/Mysterious Disconnects Images/Figure_3.png",
     "Posts/Mysterious Disconnects Images/Figure_1.png",
     "Posts/Mysterious Disconnects Images",
@@ -206,17 +212,11 @@
     "Patches/Survival/v12/v12.0.0.md",
     "Patches/Survival/v12/v12.0.1.md",
     "Patches/Creative/v4/v4.0.4.md",
-    "Patches/Creative/v4/v4.0.3.md",
-    "Patches/Creative/v4/v4.0.2.md",
-    "Live Map.md",
     "Extras/emojis/warden.webp",
     "Extras/emojis/trans_galactic_object.webp",
     "Extras/emojis/tiredlia.webp",
     "Extras/emojis/metro_interchange.webp",
-    "Extras/emojis/hmmlia.webp",
     "Extras/emojis",
-    "emojis",
-    "Patches/Legacy System/R5d",
-    "Patches/Survival Legacy System/M-1/Untitled"
+    "emojis"
   ]
 }

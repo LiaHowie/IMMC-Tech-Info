@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/New SSDs.md",
+                "file": "Posts/25-12-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New SSDs"
+              "title": "25-12-28"
             }
           }
         ]
@@ -172,27 +172,28 @@
   },
   "active": "b23b63b750a868fc",
   "lastOpenFiles": [
-    "Posts/New SSDs Attachments",
+    "Posts/New SSDs Attachments/Untitled",
+    "Posts/Mysterious Disconnects.md",
+    "Posts/25-12-28.md",
+    "Posts/25-12-28",
     "www.techpowerup.com/ssd-specs/samsung-980-pro-1-tb.d47.md",
-    "Posts/New SSDs.md",
     "www.techpowerup.com/ssd-specs",
     "www.techpowerup.com",
-    "Posts/New SSDs Attachments/Pasted image 20251215201354.png",
+    "Posts/25-12-28/Pasted image 20251215201354.png",
     "Posts/25-11-29.md",
     "Hardware.md",
-    "Posts/Mysterious Disconnects.md",
     "Extras/Templates/Default Frontmatter.md",
     "Posts/test.md",
     "Posts/ZFS Storage Pool Troubles.md",
-    "Posts/25-11-29 Attachments",
+    "Posts/25-11-29",
     "index.md",
     "Extras/LatexPreamble.md",
     "Posts/Mysterious Disconnects Images/Figure_3.png",
     "Posts/Mysterious Disconnects Images/Figure_1.png",
     "Posts/Mysterious Disconnects Images",
     "Posts/Mysterious Disconnects Images/Figure_2.png",
-    "Posts/25-11-29 Attachments/Pasted image 20251125191625.png",
-    "Posts/25-11-29 Attachments/Pasted image 20251125191503.png",
+    "Posts/25-11-29/Pasted image 20251125191625.png",
+    "Posts/25-11-29/Pasted image 20251125191503.png",
     "Posts/Test Note 2.md",
     "Extras/Figures",
     "Patches/Creative/v4/v4.1.1.md",
@@ -216,7 +217,6 @@
     "Extras/emojis/trans_galactic_object.webp",
     "Extras/emojis/tiredlia.webp",
     "Extras/emojis/metro_interchange.webp",
-    "Extras/emojis",
-    "emojis"
+    "Extras/emojis"
   ]
 }

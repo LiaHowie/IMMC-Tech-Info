@@ -114,6 +114,12 @@ doing
 deal
 drowning
 depends
+difficult
+does
+deliver
+discount
+dispatched
+days
 true
 to
 this
@@ -243,6 +249,9 @@ temporary
 thing
 terrible
 tuned
+three
+techpowerup
+tb
 World
 WorldEdit
 WU
@@ -303,6 +312,10 @@ Wbee
 WDC
 What
 Why
+Whoop
+Western
+Write
+Woodss
 Switched
 Signs
 SCy
@@ -416,6 +429,11 @@ Storage
 Since
 SLOG
 Synchronous
+Samsung
+Sold
+SN
+SPATIUM
+Size
 Vanilla
 Vein
 Va
@@ -478,6 +496,7 @@ Vd
 VLaaa
 VMV
 VO
+Vortex
 Reset
 Rgh
 RB
@@ -547,6 +566,8 @@ Rw
 RE
 RfD
 Running
+Redline
+Read
 world
 work
 when
@@ -657,6 +678,11 @@ written
 writing
 writes
 why
+worry
+went
+weeks
+week
+wait
 new
 not
 names
@@ -726,6 +752,8 @@ network
 nothing
 nO
 nKLL
+needlessly
+nearest
 blank
 blocks
 behaviour
@@ -835,6 +863,9 @@ bottleneck
 behavior
 based
 basically
+budget
+buy
+bringing
 superflat
 such
 signs
@@ -1039,6 +1070,15 @@ shit
 spot
 sooner
 separating
+slots
+seems
+sold
+ssd
+samsung
+sizes
+slightly
+stoc
+stock
 Features
 FNt
 Fc
@@ -1108,6 +1148,8 @@ Fnr
 FYYS
 From
 Fear
+Following
+Found
 Confetti
 Creepers
 Coloured
@@ -1216,6 +1258,8 @@ COO
 CDd
 CV
 Create
+Crucial
+CL
 explode
 enables
 every
@@ -1315,6 +1359,8 @@ explicitly
 expense
 effort
 ensuring
+easy
+expensive
 into
 item
 it
@@ -1411,6 +1457,8 @@ integrity
 intent
 inherent
 increase
+impact
+immediately
 fireworks
 for
 fn
@@ -1506,6 +1554,11 @@ flag
 fast
 formally
 flash
+ful
+fact
+filtering
+filtered
+faster
 and
 as
 at
@@ -1625,6 +1678,12 @@ achieved
 alleviated
 affected
 actual
+adapters
+affordable
+affordability
+apparently
+account
+arrive
 Item
 IHDR
 IDATx
@@ -1765,6 +1824,8 @@ NNNh
 NIU
 Not
 NFS
+Nope
+Naltam
 Minecraft
 Miner
 Mz
@@ -1855,6 +1916,9 @@ MOG
 Mnr
 Men
 Mysterious
+MB
+Mushkin
+MSI
 colour
 codes
 crouching
@@ -2007,6 +2071,10 @@ card
 course
 crashes
 chunks
+compare
+cheaper
+came
+covered
 hex
 has
 hp
@@ -2094,6 +2162,11 @@ halves
 hindsight
 happening
 heavier
+home
+highest
+heard
+hours
+himself
 on
 ores
 other
@@ -2178,6 +2251,8 @@ office
 operations
 originally
 option
+opted
+ordered
 Added
 Auto
 Ag
@@ -2265,6 +2340,10 @@ App
 Aj
 And
 Astral
+Alrighty
+Alright
+AORUS
+Awesome
 vein
 valid
 vv
@@ -2320,6 +2399,8 @@ vnWtT
 vL
 va
 vi
+verified
+values
 miner
 mod
 minute
@@ -2426,6 +2507,10 @@ modded
 modpacks
 moment
 money
+managed
+minimal
+minimum
+manufacturer
 logs
 lk
 lcm
@@ -2519,6 +2604,10 @@ low
 latency
 loss
 load
+lowest
+late
+looked
+lower
 By
 Ba
 BS
@@ -2591,6 +2680,7 @@ BBB
 Bv
 But
 Because
+Black
 restarts
 rKsaw
 rog
@@ -2701,6 +2791,13 @@ relevantly
 resulting
 replicate
 reason
+replace
+research
+requirements
+range
+requirement
+ruled
+rule
 page
 production
 published
@@ -2812,6 +2909,9 @@ penalty
 persistence
 power
 past
+price
+pro
+paid
 you
 yJ
 yU
@@ -2955,6 +3055,12 @@ PI
 PN
 Pwq
 Patriot
+PCIe
+Plus
+Pro
+PRO
+Price
+Pros
 use
 uD
 ux
@@ -3028,6 +3134,7 @@ underlying
 utilise
 unoptimised
 uniquely
+uni
 Operators
 OT
 Ox
@@ -3079,6 +3186,8 @@ Ok
 OOO
 ODD
 Oops
+Out
+Oh
 xJ
 xe
 xS
@@ -3239,6 +3348,7 @@ HlrG
 Hitachi
 HDS
 Hmm
+Hadn
 QP
 Qi
 Qf
@@ -3686,6 +3796,9 @@ Tm
 Thh
 Troubles
 Think
+Type
+TBW
+Thanks
 GF
 Gm
 Gu
@@ -3759,6 +3872,8 @@ Gc
 Gn
 Geu
 Given
+Gigabyte
+Gen
 jH
 jcp
 jI
@@ -3854,6 +3969,8 @@ UF
 Un
 Uu
 Ulmm
+Using
+Uhm
 Dc
 Dj
 DA
@@ -3936,6 +4053,8 @@ DDD
 DRAM
 DRAMless
 Disconnects
+Digital
+Dad
 qe
 qa
 qL
@@ -4042,6 +4161,9 @@ EDDDD
 ED
 Ef
 Eamll
+Evo
+Earliest
+Endurance
 gk
 gcm
 ga
@@ -4125,6 +4247,8 @@ got
 gigabits
 gigabytes
 go
+going
+gonna
 LFaI
 LL
 LNx
@@ -4182,4 +4306,6 @@ LVI
 LV
 Limited
 Looking
+Let
+LPDDR
 äB

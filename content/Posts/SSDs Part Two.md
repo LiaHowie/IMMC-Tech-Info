@@ -1,0 +1,42 @@
+---
+draft:
+note: A draft page will not be shown in the production site
+title: New SSDs - Part Two
+---
+Since the [[25-12-28|last post]], I've scoured the internet for SSDs for over a month. I even tried ordering from a Polish ebay seller 'selling' two [MSI SPATIUM M840 PROs](https://www.techpowerup.com/ssd-specs/msi-spatium-m480-pro-2-tb.d1514) for about £130 each, and I was willing to pay for all the international import stuff just for the ***chance*** to get them, but the day after I ordered them I received a message:
+
+> [!quote] 
+> Hello there!
+> 
+> We have a small technical hiccup—our system must have had a coffee break ☕ and didn’t update the stock correctly. We waited for news from the supplier, but it looks like this product is stuck in limbo—no idea when (or if) it will be available. 😬
+> 
+> To make things even more fun, we currently have 400,000 listings, but eBay only processes 50,000 updates per day (yes, seriously!). So, as much as we’d love to fix this instantly, it’s a bit out of our hands.
+> 
+> Since we can’t deliver, could you please cancel the order through eBay? The money will be refunded to your account immediately. 🙏
+> 
+> A thousand apologies!
+> Your not-so-perfect-but-still-awesome boss,
+> ██████ █████
+
+Even putting aside the fact they actually sent me a 5% discount code before I ordered, the fact they listed it as "in stock" and had not mentioned anywhere they were waiting for stock, the fact their excuse doesn't make any sense, and the fact if they can't fulfil the order it's their responsibility to cancel it, this was very frustrating.
+
+Honestly, I got this message and thought I'd just been scammed out of £300... but miraculously, despite how dodgy and scammy that message reads, they ***instantly*** sent me a full refund. So quickly in fact the money never even left my bank account.
+
+So I was left back where we started, nowhere in the UK had any new in stock, and international stores had any either. My next thought was to look a bit deeper into second hand options - unfortunately there was not a single second hand option available on any usual second hand online stores :tiredlia:
+
+Then, during a Quantum Fluids revision session, in a spout of procrastination, it hit me! [CEX](https://en.wikipedia.org/wiki/CeX_(retailer))! Surely someone, somewhere, in the UK had sold them an NVMe SSD with DRAM - and I was right! There where... *checks notes* ... 2. 2 SSDs. In Coventry (not near me). But it was a 2TB one, and it was £165 each. This would increase our cost from £180 to £330 😐. After some thought I said fuck it, I added them to my basket and... 1 had just been sold. Right in front of my eyes it went from 2 available to 1. FUCK! I need to order this ***AND FAST***. So I order one 2TB [Samsung 990 Pro](https://www.techpowerup.com/ssd-specs/samsung-990-pro-1-tb.d861) for £165.
+
+And now I waited. It was dispatched the next day, and arrived within 3 days, although I got an email on the delivery day saying failed to deliver, try again tomorrow. No worries, reception was closed, a bit annoying they didn't even try to call me to open the door but whatever. But then the next day I checked the tracker and it *had* arrived? Why did it say cancelled. Fuck! My SSD had been sat on the floor of reception all night with anyone able to just grab it. Fuck fuck fuck! When I got home that day, I asked reception, I was begging for it to be there, and luckily they had logged and stored it in the back. THANK FUCK!
+
+I get the box, head up to my flat, and open it. Wait where is it? It's an empty box. What is this? And then I notice a small piece of folded up receipt paper. I unwrap it and... the SSD had been wrapped in a fucking receipt for the journey. No anti-static bag, no careful wrapping, no bubble wrap - a single receipt. What the fuck?
+
+![[Pasted image 20260113105850.png|500]]
+
+But, I finally had one in my possession. One problem: I'm at university, the servers are at home... and I can't go home until Easter. Ah.
+
+So now we wait once again. But while we do that, I want to focus on what I seemingly discovered through this process. Currently, in the UK, there are exactly zero heatsink-less NVMe SSDs for sale. I bought the last one. WHAT? 
+
+Why is this happening you might ask? AI. A-fucking-I... https://www.pcworld.com/article/3028843/dram-ssd-shortages-could-last-months-to-years-vendors-say.html
+
+I'm pretty close to tearing my hair out over this. In the meantime, I'll implement some temporary measures once my exams are over to help prevent further [[25-11-29|ZFS Storage Pool Issues]], and hopefully reduce the strain on the SSDs.
+

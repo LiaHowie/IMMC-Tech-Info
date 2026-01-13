@@ -120,6 +120,11 @@ deliver
 discount
 dispatched
 days
+delivery
+despite
+dodgy
+deeper
+during
 true
 to
 this
@@ -252,6 +257,8 @@ tuned
 three
 techpowerup
 tb
+thousand
+thought
 World
 WorldEdit
 WU
@@ -434,6 +441,7 @@ Sold
 SN
 SPATIUM
 Size
+Surely
 Vanilla
 Vein
 Va
@@ -683,6 +691,10 @@ went
 weeks
 week
 wait
+wrote
+willing
+waited
+waiting
 new
 not
 names
@@ -754,6 +766,9 @@ nO
 nKLL
 needlessly
 nearest
+news
+never
+nowhere
 blank
 blocks
 behaviour
@@ -866,6 +881,11 @@ basically
 budget
 buy
 bringing
+break
+bit
+boss
+bank
+basket
 superflat
 such
 signs
@@ -1079,6 +1099,20 @@ sizes
 slightly
 stoc
 stock
+scoured
+seller
+selling
+supplier
+stuck
+seriously
+sent
+sense
+scammed
+scammy
+session
+spout
+somewhere
+said
 Features
 FNt
 Fc
@@ -1150,6 +1184,9 @@ From
 Fear
 Following
 Found
+Fluids
+FUCK
+FAST
 Confetti
 Creepers
 Coloured
@@ -1260,6 +1297,7 @@ CV
 Create
 Crucial
 CL
+Coventry
 explode
 enables
 every
@@ -1361,6 +1399,10 @@ effort
 ensuring
 easy
 expensive
+ebay
+eBay
+excuse
+eyes
 into
 item
 it
@@ -1459,6 +1501,11 @@ inherent
 increase
 impact
 immediately
+internet
+info
+international
+import
+instantly
 fireworks
 for
 fn
@@ -1559,6 +1606,12 @@ fact
 filtering
 filtered
 faster
+fun
+fix
+fulfil
+frustrating
+full
+fuck
 and
 as
 at
@@ -1684,6 +1737,11 @@ affordability
 apparently
 account
 arrive
+adaptors
+apologies
+awesome
+aside
+anywhere
 Item
 IHDR
 IDATx
@@ -2075,6 +2133,9 @@ compare
 cheaper
 came
 covered
+close
+coffee
+cancel
 hex
 has
 hp
@@ -2167,6 +2228,8 @@ highest
 heard
 hours
 himself
+hiccup
+hands
 on
 ores
 other
@@ -2253,6 +2316,9 @@ originally
 option
 opted
 ordered
+ordering
+order
+options
 Added
 Auto
 Ag
@@ -2344,6 +2410,7 @@ Alrighty
 Alright
 AORUS
 Awesome
+AND
 vein
 valid
 vv
@@ -2511,6 +2578,8 @@ managed
 minimal
 minimum
 manufacturer
+mentioned
+miraculously
 logs
 lk
 lcm
@@ -2608,6 +2677,10 @@ lowest
 late
 looked
 lower
+looks
+limbo
+listings
+listed
 By
 Ba
 BS
@@ -2798,6 +2871,13 @@ range
 requirement
 ruled
 rule
+replacing
+received
+refunded
+responsibility
+reads
+refund
+revision
 page
 production
 published
@@ -2912,6 +2992,13 @@ past
 price
 pro
 paid
+polish
+pay
+product
+processes
+perfect
+putting
+procrastination
 you
 yJ
 yU
@@ -3061,6 +3148,7 @@ Pro
 PRO
 Price
 Pros
+Polish
 use
 uD
 ux
@@ -3135,6 +3223,8 @@ utilise
 unoptimised
 uniquely
 uni
+unfortunately
+usual
 Operators
 OT
 Ox
@@ -3188,6 +3278,7 @@ ODD
 Oops
 Out
 Oh
+One
 xJ
 xe
 xS
@@ -3349,6 +3440,7 @@ Hitachi
 HDS
 Hmm
 Hadn
+Honestly
 QP
 Qi
 Qf
@@ -3408,6 +3500,7 @@ QQQIR
 QBi
 QVU
 QZ
+Quantum
 Kf
 KX
 Kr
@@ -3664,6 +3757,7 @@ YFc
 YO
 YZ
 YPP
+Your
 Jx
 JM
 Ji
@@ -3799,6 +3893,8 @@ Think
 Type
 TBW
 Thanks
+Two
+Then
 GF
 Gm
 Gu
@@ -4055,6 +4151,7 @@ DRAMless
 Disconnects
 Digital
 Dad
+DRAMfull
 qe
 qa
 qL
@@ -4096,6 +4193,7 @@ qQQQ
 qpssS
 quicker
 quick
+quickly
 Ed
 Eu
 EY
@@ -4164,6 +4262,8 @@ Eamll
 Evo
 Earliest
 Endurance
+Expected
+Even
 gk
 gcm
 ga

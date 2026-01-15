@@ -11,14 +11,12 @@
             "id": "47d1cbdafbd6d8f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Posts/26-01-15.md",
-                "mode": "source",
-                "source": false
+                "file": "Posts/26-01-15/Pasted image 20260113105850.png"
               },
-              "icon": "lucide-file",
-              "title": "26-01-15"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260113105850"
             }
           }
         ]
@@ -172,9 +170,9 @@
   },
   "active": "47d1cbdafbd6d8f8",
   "lastOpenFiles": [
+    "Posts/26-01-15.md",
     "Posts/26-01-15/Pasted image 20260113105850.png",
     "Posts/25-12-28.md",
-    "Posts/26-01-15.md",
     "Posts/Mysterious Disconnects.md",
     "index.md",
     "Posts/26-01-15",
@@ -216,7 +214,6 @@
     "Patches/Survival/v12/v12.0.1.md",
     "Extras/emojis/warden.webp",
     "Extras/emojis/trans_galactic_object.webp",
-    "Extras/emojis/tiredlia.webp",
-    "Extras/emojis/metro_interchange.webp"
+    "Extras/emojis/tiredlia.webp"
   ]
 }

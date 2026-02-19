@@ -10,9 +10,14 @@ Hello! Welcome to IMMC's tech info site. I'm Lia, the owner of IMMC. This is jus
 
 The github for this Quartz static site is also public, if anyone is at all interested! https://github.com/LiaHowie/IMMC-Tech-Info
 
+> [!question] Is something not working?
+> Check the new [Network Status](https://status.immortalmc.net/) page to see if anything is currently offline!
+
+
 ---
 
 - For Posts to this site in Reverse Chronological Order: https://tech.immortalmc.net/Posts/
 - For our Main Website: https://www.immortalmc.net/
 - For the Story Mode wiki: https://docs.immortalmc.net/
 - For the Survival Mode wiki: https://docs.survival.immortalmc.net/
+- For Network Status: https://status.immortalmc.net/

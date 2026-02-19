@@ -6,7 +6,8 @@ Below are the current specs for the server's hardware
 
 # Server 1
 
-<iframe src="https://status.immortalmc.net/#tcp_monitor_server1"></iframe>
+<iframe width="700" height="250"  src="https://status.immortalmc.net/#tcp_monitor_server1"></iframe>
+
 ### Services
 - Discord Bot
 - File Hosting
@@ -38,7 +39,8 @@ Dell PowerEdge T110 II (modified)
 
 ---
 # Server 2 
-<iframe src="https://status.immortalmc.net/#tcp_monitor_server2"></iframe>
+<iframe width="700" height="250" src="https://status.immortalmc.net/#tcp_monitor_server2"></iframe>
+
 ### Services 
 - Survival 
 - Creative 

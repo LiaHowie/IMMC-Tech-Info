@@ -6,7 +6,7 @@ Below are the current specs for the server's hardware
 
 # Server 1
 
-<iframe width="700" height="250"  src="https://status.immortalmc.net/#tcp_monitor_server1"></iframe>
+<iframe width="100%" height="250"  src="https://status.immortalmc.net/#tcp_monitor_server1"></iframe>
 
 ### Services
 - Discord Bot
@@ -24,12 +24,12 @@ Dell PowerEdge T110 II (modified)
 | CPU0 | Intel Xeon CPU E3-1270 V2 @ 3.50GHz |
 | RAM  | 16GiB (4x4GiB) DDR3 1600MHz         |
 | PSU  | 305W                                |
-| sda  | Hitachi HDS72105 (512GB)            |
+| ~~sda~~  | ~~Hitachi HDS72105 (512GB)~~            |
 | sdb  | ST4000VX016-3CV1 (4TB)              |
 | sdc  | SPCC Solid State (256GB)            |
 | sdd  | SPCC Solid State (256GB)            |
 - 5TB total storage 
-- sda
+- sda (drive failed, currently offline)
 	- OS
 	- Other Services
 - sdd
@@ -39,7 +39,7 @@ Dell PowerEdge T110 II (modified)
 
 ---
 # Server 2 
-<iframe width="700" height="250" src="https://status.immortalmc.net/#tcp_monitor_server2"></iframe>
+<iframe width="100%" height="250" src="https://status.immortalmc.net/#tcp_monitor_server2"></iframe>
 
 ### Services 
 - Survival 
@@ -62,5 +62,7 @@ HP Z600 Workstation (modified)
 - sda
 	- OS 
 	- Other Services 
--  sdb/sdc paired in ZFS Pool 
-	- Minecraft Instances
+- sdb (temporary useages)
+	- Survival Server
+- sdc (temporary useages)
+	- Creative Server 

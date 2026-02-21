@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6771c9b62ab23b53",
+    "id": "7349f87545f08b21",
     "type": "split",
     "children": [
       {
-        "id": "27f7173760fc2efd",
+        "id": "17b711960cf5668b",
         "type": "tabs",
         "children": [
           {
-            "id": "1437d3ddf734b23f",
+            "id": "47d1cbdafbd6d8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hardware.md",
+                "file": "content/Posts/26-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware"
+              "title": "26-02-21"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9aab91538dbc4e4f",
+    "id": "3dc331d77fa9958f",
     "type": "split",
     "children": [
       {
-        "id": "4339fe9f9ffdbe99",
+        "id": "e65350bbd2e62fea",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e8040eb7178c50",
+            "id": "b23b63b750a868fc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "5eff55b9036cd18b",
+            "id": "c7fcbd14ea0783dc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "1f02d6dd7130f555",
+            "id": "d3428a25de202c82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fa743340b788c341",
+    "id": "bf013515a33331ef",
     "type": "split",
     "children": [
       {
-        "id": "db14d9772c1e8400",
+        "id": "030df6c9cb55289f",
         "type": "tabs",
         "children": [
           {
-            "id": "83ac4800e348e229",
+            "id": "52a30fa43fc277d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "d3be6bddc26260cd",
+            "id": "107490f1feafc25d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "b88f122898d912f2",
+            "id": "5b2bd2a7f6a648af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +137,12 @@
             }
           },
           {
-            "id": "3ecdf4a364d269d3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "b50c840c951d4a5b",
+            "id": "273bd78e28b07791",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,12 +166,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1437d3ddf734b23f",
+  "active": "47d1cbdafbd6d8f8",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Hardware.md"
+    "content/Hardware.md",
+    "content/Posts/26-02-21.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "content/Posts/26-02-21",
+    "content/Posts/Untitled.md",
+    "content/Posts/26-02-21/Pasted image 20260220210218.png",
+    "content/Posts/25-11-29.md",
+    "content/Posts/25-12-28.md",
+    "content/Extras/LatexPreamble.md",
+    "content/Posts/26-01-15.md",
+    "Posts/26-01-15/Pasted image 20260113105850.png",
+    "Posts/26-01-15",
+    "Posts/26-01-15.md",
+    "Posts/25-12-28.md",
+    "Posts/Mysterious Disconnects.md",
+    "index.md",
+    "Posts/New SSDs Attachments/Untitled",
+    "Posts/25-12-28",
+    "www.techpowerup.com/ssd-specs/samsung-980-pro-1-tb.d47.md",
+    "www.techpowerup.com/ssd-specs",
+    "www.techpowerup.com",
+    "Posts/25-12-28/Pasted image 20251215201354.png",
+    "Posts/25-11-29.md",
+    "Hardware.md",
+    "Extras/Templates/Default Frontmatter.md",
+    "Posts/test.md",
+    "Posts/ZFS Storage Pool Troubles.md",
+    "Posts/25-11-29",
+    "Extras/LatexPreamble.md",
+    "Posts/Mysterious Disconnects Images/Figure_3.png",
+    "Posts/Mysterious Disconnects Images/Figure_1.png",
+    "Posts/Mysterious Disconnects Images",
+    "Posts/Mysterious Disconnects Images/Figure_2.png",
+    "Posts/25-11-29/Pasted image 20251125191625.png",
+    "Posts/25-11-29/Pasted image 20251125191503.png",
+    "Posts/Test Note 2.md",
+    "Extras/Figures",
+    "Patches/Creative/v4/v4.1.1.md",
+    "Posts",
+    "Patches/Survival/v12/v12.1.1.md",
+    "Vein Miner.md",
+    "Server Side Changes.md",
+    "Patches/Survival/v12/v12.1.0.md",
+    "Extras/emojis/warden.webp",
+    "Extras/emojis/trans_galactic_object.webp"
   ]
 }

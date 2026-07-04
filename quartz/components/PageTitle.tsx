@@ -11,7 +11,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h2 class={classNames(displayClass, "page-title")} style="text-align: center">
       <a href={baseDir}>
         <img 
-          src="https://drive.liahowie.net/index.php/apps/files_sharing/publicpreview/sr2HBeWopTqJNDT?file=/&fileId=61807&x=2560&y=1440&a=true&etag=da515ff53477a12ddcd01be8efa78b2c" 
+          src="https://drive.liahowie.net/index.php/apps/files_sharing/publicpreview/RakBo8jT6CKiG4z?file=/&fileId=1370&x=1920&y=1080&a=true&etag=da515ff53477a12ddcd01be8efa78b2c" 
           width="100" 
           height="100"
           >
